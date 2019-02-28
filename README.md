@@ -1,5 +1,4 @@
 # f1-management-system
-# f1-management-system
 
 1.	Descrierea aplicatiei
 
